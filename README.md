@@ -13,7 +13,7 @@
 ## Контакты
 
 <p align="left">
-  <a href="mailto:nikita.niki2k@gmail.com"><img src="https://img.shields.io/badge/Email-4479A1?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://t.me/nvomiskam"><img src="https://img.shields.io/badge/Telegram-00ADD8?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:nikita.niki2k@gmail.com"><img src="https://img.shields.io/badge/Email-4479A1?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-F05032?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
