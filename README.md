@@ -13,13 +13,13 @@
 ## Контакты
 
 <p align="left">
-  <a href="mailto:nikita.niki2k@gmail.com">
+  <a href="mailto:nikita.niki2k@gmail.com" style="margin-right: 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail" alt="Email">
   </a>
-  <a href="https://t.me/nvomiskam">
+  <a href="https://t.me/nvomiskam" style="margin-right: 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=telegram" alt="Telegram">
   </a>
-  <a href="#">
+  <a href="#" style="display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
